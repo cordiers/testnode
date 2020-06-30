@@ -1,1 +1,1 @@
-# testnode
+Bubble project

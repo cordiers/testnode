@@ -1,0 +1,23 @@
+{
+  "name": "bubble",
+  "version": "1.0.0",
+  "description": "bubble package",
+  "main": "app.js",
+  "scripts": {
+    "test": "mocha",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cordiers/bubble.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^4.2.0",
+    "express": "^4.16.4",
+    "mocha": "^6.1.4",
+    "npm": "^6.9.0",
+    "request": "^2.88.0"
+  }
+}
